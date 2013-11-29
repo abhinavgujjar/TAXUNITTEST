@@ -25,5 +25,11 @@ namespace Tax.Test
         {
             return _employees;
         }
+
+
+        public decimal GetEducationCess()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

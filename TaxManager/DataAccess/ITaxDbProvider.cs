@@ -5,5 +5,7 @@ namespace TaxManager
     {
         decimal GetBaseTaxRate();
         System.Collections.Generic.List<TaxManager.Person> GetEmployees();
+
+        decimal GetEducationCess();
     }
 }

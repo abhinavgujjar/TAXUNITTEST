@@ -53,6 +53,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="CompanyTest.cs" />
     <Compile Include="FakeAuditor.cs" />
     <Compile Include="FakeDbProvider.cs" />
     <Compile Include="TaxCalculationTest.cs" />
